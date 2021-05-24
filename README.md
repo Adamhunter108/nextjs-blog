@@ -7,4 +7,4 @@ This is a blog that was built and deployed to learn the Next.js framework for Re
 ---
 
 ##### `View live:`
-`[adamhunter-nextjs.vercel.app](https://adamhunter-nextjs.vercel.app)`
+[adamhunter-nextjs.vercel.app](https://adamhunter-nextjs.vercel.app)
