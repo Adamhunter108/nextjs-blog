@@ -2,7 +2,7 @@
 
 
 ##### `About:`
-A personal blog built with React on the Next.js framework with content powered by Markdown.
+A personal blog built with React on the Next.js framework with content powered by Markdown and deployed to Vercel.
 
 ---
 
