@@ -2,7 +2,7 @@
 
 
 ##### `About:`
-This is a blog that was built and deployed to learn the Next.js framework for React based web applications.
+A personal blog built with React on the Next.js framework with content powered by Markdown.
 
 ---
 
